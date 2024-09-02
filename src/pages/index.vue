@@ -12,7 +12,7 @@ import Footer from '../components/Footer.vue';
 
     <section class="me">
       <p class="subtitle">
-        Atualmente sou um desenvolvedor full-stack e estou no meu terceiro ano de estudos em
+        Atualmente sou um desenvolvedor full-stack e estou no meu último semestre de estudos em
         <span class="highlight">ciência da computação</span>. Minha jornada na programação teve
         início em 2014, quando comecei a criar minigames e complementos para jogos utilizando Java.
         Com o passar do tempo, direcionei meu interesse para o desenvolvimento web, que se tornou
